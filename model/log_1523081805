@@ -1,0 +1,4 @@
+# log_file=C:\Users\Admin\nmt-chatbot\model\log_1523081805
+# Start step 0, lr 0.001, Sat Apr  7 11:47:05 2018
+  global step 100 lr 0.001 step-time 15.07s wps 0.36K ppl 603.35 gN 30.28 bleu 0.00
+  global step 200 lr 0.001 step-time 80.63s wps 0.07K ppl 232.63 gN 12.00 bleu 0.00
